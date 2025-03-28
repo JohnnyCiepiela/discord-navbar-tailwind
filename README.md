@@ -1,5 +1,5 @@
 # Discord Navigation Bar
-This project contains just a navigation bar written using React + Tailwind, as part of my first hands-on experience in learning Tailwin.
+This project contains just a navigation bar written using React + Tailwind, as part of my first hands-on experience in learning Tailwind.
 The app has been deployed to GitHub Pages and is available under this link:
 https://johnnyciepiela.github.io/discord-navbar-tailwind/
 
